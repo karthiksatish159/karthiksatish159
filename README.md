@@ -4,12 +4,15 @@ Hi 👋 my name is Karthik Satish
 I am a passionate web developer 👨‍💻
 
 About Me!
-
-👨🏽‍💻 I’m currently a CSE Undergrad student at KL University
-🌱 I’m currently exploring Web Development and DSA.
-🤔 My interest is in Web Development and cloud technologies
-💬 Ask me about anything, I love to answer!
-📫 Email me at karthiksatish159@gmail.com||190031596cse@gmail.com.
+<ul>
+  <li>
+👨🏽‍💻 I’m currently a CSE Undergrad student at KL University</li>
+  
+<li>🌱 I’m currently exploring Web Development and DSA.</li>
+<li>🤔 My interest is in Web Development and cloud technologies</li>
+<li>💬 Ask me about anything, I love to answer!</li>
+<li>📫 Email me at karthiksatish159@gmail.com||190031596cse@gmail.com.</li>
+</ul>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/karthiksatish143) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthiksatish150) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-satish-telagareddy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13688062) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@karthiksatish4) 
